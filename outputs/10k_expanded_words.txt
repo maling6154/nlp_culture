@@ -1,0 +1,45 @@
+The dimension is: communication 50 expanded words
+===========================================================================
+['telecommunication', 'connectivity', 'networking', 'network', 'wireless', 'mobile', 'telephone', 'internet', 'voice', 'video_conferencing', 'wired_wireless', 'wireless_wireline', 'broadband', 'in-building_wireless', 'high-speed', 'electronic', 'networked', 'infrastructure', 'telemetry', 'digital', 'wireline_wireless', 'machine-to-machine', 'notebook_webcam', 'wirelessly', 'telephony', 'easily_accessible', 'encrypt', 'message', 'gps_tracking', 'vpns', 'fiber-optic', 'instant_messaging', 'extranets', 'web_browsing', 'messaging', 'intelligent', 'datacenter', 'solution', 'server', 'automation', 'intranet', 'satellite-based_communication', 'audio_video', 'ubiquitous', 'voice_message', 'wans', 'telecom', 'terrestrial-based', 'satellite-based', 'e-mail_fax']
+
+
+The dimension is: integrity 50 expanded words
+===========================================================================
+['governance', 'empower', 'instill', 'accountable', 'ethic', 'coordination', 'identity', 'culture', 'corporate_governance', 'safeguard', 'decision-making', 'uniformity', 'actionable', 'unbiased', 'erm_framework', 'adheres', 'rigor', 'teamwork', 'compassion', 'honesty_integrity', 'tone_top', 'professionalism', 'dmms', 'environmental_stewardship', 'promotes', 'nerc_delegate', 'conservator', 'pcx_equities', 'organization', 'board-approved_appetite', 'strict', 'multi-disciplinary_team', 'engaging', 'icaap', 'delegate', 'hauspie', 'background_check', 'decision_making', '15d-14_registrant', 'oversight', 'high-performing', 'oversee', 'accuracy_timeliness', 'supervise', 'mindset', 'segregation_duty', 'alcco', 'unfair_deceptive', 'safe_sound', 'anti-money_laundering']
+
+
+The dimension is: hard_work 50 expanded words
+===========================================================================
+['loyalty', 'friendly', 'rewards', 'passion', 'fan', 'favorite', 'exciting', '1-800-flowers.com', 'exceptional', 'unparalleled', 'shopping', 'guest', 'dining', 'passionate', 'welcome', 'excitement', 'fancy', 'delight', 'personalization', 'lifestyle', 'breakfast', 'hassle-free', 'unrivaled', 'comfort', 'family-friendly', 'legendary', 'revamped', 'cabela', 'prize', 'innovative', 'fashionable', 'dinner', 'compelling', 'traveler', 'powerful', 'interesting', 'really', 'choice', 'personalize', 'love', 'tweens', 'smart', 'smarter', 'promote', 'authentic', 'upbeat', 'holiday-themed', 'worlds_fun', 'award-winning', 'fresh']
+
+
+The dimension is: quality 50 expanded words
+===========================================================================
+['intimate_knowledge', 'order', 'responsiveness', 'exemplary', 'reliability', 'stability', 'freshness', 'relationship', 'breadth_depth', 'quantity', 'wherewithal', 'importance', 'uptime', 'durability', 'competitively', 'load', 'newness', 'client', 'environmental_stewardship', 'lead-time', 'dependable', 'legally_bind', 'willingness', 'visibility', 'reputation', 'steadfast', 'serviceability', 'up-time', 'capability', 'high-value', 'degree', 'excellent', 'affordability', 'valuable', 'recontract', 'installed', 'on-time_delivery', 'compatibility', 'capacity', 'cost-effective_manner', 'scalability', 'accessibility', 'desire', 'talent', 'after-sale', 'creditworthy', 'compelling', 'capable', 'operationally_efficient', 'comfortable']
+
+
+The dimension is: safety 50 expanded words
+===========================================================================
+['workplace', 'everyone', 'comfortable', 'safer', 'accessibility', 'importantly', 'cleanliness', 'health_wellness', 'integrity', 'awareness', 'help', 'stability', 'enrich', 'sexual', 'job_seeker', 'healthier', 'forefront', 'affordable', 'wellness', 'aim', 'atmosphere', 'health-related', "'re", 'inpatient_rehabilitative', 'affordability', 'workplace_safety', 'consciousness', 'occupational', 'robust', 'innovative', 'well-being', 'mr/dd', 'enhancing', 'strive', 'excellent', 'environmental_stewardship', 'administration_osha', 'comfort', 'reinforce', 'competitiveness', 'supportive', 'vigor', 'improving', 'driving', 'desire', 'safely', 'discipline', 'holistically', 'educate', 'safe']
+
+
+The dimension is: teamwork 50 expanded words
+===========================================================================
+['strategic_alliance', 'co-marketing', 'alliance', 'teaming', 'co-development', 'collaborate', 'partnering', 'mutually_beneficial', 'co-branding', 'collaborator', 'intrexon', 'ono', 'crada', 'gates_foundation', 'jdrf', 'adm', 'niaaa', 'mayo_clinic', 'alticor', 'iavi', 'collaboration_sanofi', 'licensing', 'industrialization', 'roche_roche', 'co-development_co-commercialization', 'academic_institution', 'osu', 're-seller', 'co-promotional', 'co-', 'ecc_intrexon', 'bill_melinda', 'gruenenthal', 'academic_collaborator', 'spinal_muscular', 'co-development_commercialization', 'collaboration_astellas', 'aids_vaccine', 'exubera_ngi', 'gsk_gsk', 'dannon', 'grunenthal', 'nonprofit_organization', 'licensors_licensee', 'tenc', 'commercialization', 'juvenile_diabetes', 'johns_hopkins', 'daiichi', 'rutgers_university']
+
+
+The dimension is: community 50 expanded words
+===========================================================================
+['culture', 'foster', 'community-based', 'environmental_stewardship', 'healthy_living', 'low-_moderate-income', 'foundation', 'psychology', 'nonprofit_organization', 'workplace', 'youth_sport', 'well-being', 'non-profit_organization', 'charitable', 'urban', 'nation', 'neighborhood', 'everyone', 'advocate', 'advocacy', 'enduring', 'emotional', 'resilience', 'homeownership', 'mr/dd', 'orientation', 'instill', 'entrepreneur', 'entrepreneurial', 'ecological', 'stewardship', 'foundation_non-profit', 'landscape', 'promote', 'organization', 'citizen', 'awareness', 'lifestyle', 'regionally', 'ethical', 'consumer-driven', 'chronic_disease', 'rehabilitation', 'holistically', 'vibrant', 'cultural', 'grand_canyon', 'leadership', 'ctta', 'civic']
+
+
+The dimension is: innovation 50 expanded words
+===========================================================================
+['world-class', 'industry-leading', 'best-in-class', 'teamwork', 'differentiated', 'unsurpassed', 'operational_excellence', 'powerful', 'talent', 'distinctive', 'personalized', 'productivity', 'unparalleled', 'leading-edge', 'competency', 'compelling', 'focus', 'reinforce', 'resilience', 'personalize', 'ease-of-use', 'customer-focused', 'time-to-market', 'information-based', 'eco-friendly', 'fun', 'smarter', 'transformative', 'enhancing', 'idea', 'leader', 'capability', 'enrich', 'mindset', 'embrace', 'customer-centric', 'award-winning', 'exceptional', 'market-leading', 'adaptability', 'rewarding', 'thought_leadership', 'scalability', 'modern', 'improve', 'breadth_depth', 'orientation', 'passionate', 'key_differentiator', 'exciting']
+
+
+The dimension is: respect 50 expanded words
+===========================================================================
+['recruiter', 'recruitment', 'job_seeker', 'recruiting', 'client-facing', 'team', 'train', 'teammate', 'recruit', 'motivation', 'newly-hired', 'personnel', 'orientation', 'animator', 'brings', 'everyone', 'experienced_banker', 'recruiting_training', 'faculty', 'recruitment_retention', 'experienced_team', 'highly-skilled', 'recruiting_retention', 'creativity', 'designer_artist', 'veteran', 'instructor', 'artistic', 'transcriptionists', 'excellence', 'motivational', 'hire', 'passionate', 'volunteerism', 'cross-training', 'leadership', 'dentist_dental', 'foster_culture', 'specialization', 'gay', 'scientist', 'colleague', 'world-renowned', 'workplace', 'career', 'retaining', 'competency', 'customer-facing', 'cut_edge', 'neos']
+
+

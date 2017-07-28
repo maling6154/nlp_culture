@@ -1,0 +1,45 @@
+The dimension is: quality 50 expanded words
+===========================================================================
+['excellence', 'committment', 'loyalty', 'pride', 'satisfaction', 'importance', 'effort', 'exemplary', 'reward', 'diligence', 'strive', 'devotion', 'demonstrate', 'core_value', 'commit', 'integrity', 'exceptional', 'ethic', 'deliver', 'importantly', 'success', 'appreciate', 'quality_quantity', 'passion', 'reciprocate', 'output', 'sacrifice', 'loyal', 'results', 'truly', 'extra_mile', 'diligently', 'consistently', 'ensure', 'focus', 'important', 'accomplishment', 'commitment_excellence', 'continue', 'happiness', 'utmost', 'strive_excellence', 'attention_detail', 'dedicate', 'reliability', 'tirelessly', 'compensate_accordingly', 'paramount', 'result', 'honesty_integrity']
+
+
+The dimension is: teamwork 50 expanded words
+===========================================================================
+['team-work', 'teaming', 'knowledge_sharing', 'co-operation', 'mutual_respect', 'spirit', 'collaborate', 'cohesive', 'information_sharing', 'team-oriented', 'collegial', 'cross-functional', 'unity', 'team-based', 'collegiality', 'harmony', 'collaboratively', 'cross_functional', 'camaraderie', 'cohesion', 'cohesiveness', 'foster', 'cross_departmental', 'supportive', 'interdisciplinary', 'knowledge-sharing', 'synergy', 'harmonious', 'inclusive', 'cross-functional_collaboration', 'encouraging', 'cross-team_collaboration', 'comradery', 'fostering', 'collaborating', 'foster_creativity', 'congenial', 'collaberation', 'cross-departmental', 'comraderie', 'collegiate', 'collegial_atmosphere', 'togetherness', 'interdepartment', 'interdepartmental', 'solidarity', 'operate_silo', 'coordination', 'mutually', 'close_knit']
+
+
+The dimension is: integrity 50 expanded words
+===========================================================================
+['honesty_integrity', 'ethical_behavior', 'integrity_honesty', 'ethic', 'candor', 'professionalism', 'practice_preach', 'objectivity', 'respect', 'truthful', 'empowerment', 'hidden_agenda', 'trustworthy', 'lead_example', 'equality', 'confidentiality', 'value', 'sincerity', 'faith', 'demonstrate', 'authenticity', 'dishonesty', 'mutual_respect', 'morality', 'consistency', 'regard', 'core_value', 'intergrity', 'hold_accountable', 'action', 'moral_compass', 'leadership', 'conviction', 'clarity', 'candid', 'forthright', 'true', 'transparancy', 'courage', 'truthfulness', 'ethically', 'deliberate', 'loyalty', 'preach', 'importantly', 'uphold', 'subordinate', 'authority', 'secrecy', 'humility']
+
+
+The dimension is: respect 50 expanded words
+===========================================================================
+['value', 'fairness', 'equality', 'transparency', 'loyalty', 'integrity', 'professionalism', 'valuable_asset', 'leadership', 'ethical_behavior', 'importance', 'practice_preach', 'lip_service', 'honesty', 'individual', 'respect_dignity', 'demonstrate', 'ethic', 'sensitivity', 'accountability', 'dignity_respect', 'empathy', 'honesty_integrity', 'commitment', 'human_capital', 'asset', 'integrity_honesty', 'trust', 'importantly', 'compassion', 'nurture', 'equally', 'diversity_inclusion', 'innovation', 'candor', 'employess', 'empower', 'committment', 'encourage', 'workforce', 'employees-', 'appreciation', 'faith', 'subordinate', 'objectivity', 'contributor', 'mutual_respect', 'motivation', 'competence', 'sincerity']
+
+
+The dimension is: hard_work 50 expanded words
+===========================================================================
+['energetic', 'energize', 'motivated', 'motivate', 'enjoyable', 'excite', 'enthusiastic', 'passionate', 'fast-paced', 'upbeat', 'rewarding', 'motivating', 'celebrate_success', 'fast_pace', 'fast_paced', 'excitement', 'passion', 'exciting', 'enjoy', 'amazing', 'inspire', 'engaging', 'thrive', 'enthusiasm', 'refresh', 'dynamic', 'love', 'young_energetic', 'engage', 'high-energy', 'worthwhile', 'challenging', 'positive', 'encouraging', 'invigorate', 'definitely', 'collaborative', 'amaze', 'positivity', 'go-getter', 'smart', 'stimulate', 'creative', 'lively', 'entrepreneurial', 'uplifting', 'spirit', 'refreshing', 'team-oriented', 'vibrant']
+
+
+The dimension is: community 50 expanded words
+===========================================================================
+['society', 'social_justice', 'atmosphere', 'committed', 'humanitarian', 'youth', 'spirit', 'community_involvement', 'compassionate', 'ministry', 'sense_belonging', 'advocacy', 'genuine', 'mission-driven', 'supportive', 'workplace', 'family-oriented', 'mission', 'cultural_diversity', 'inclusive', 'respectful', 'family-like_atmosphere', 'faith-based', 'outreach', 'noble_mission', 'noble_cause', 'sense_purpose', 'admirable', 'missionary', 'culture', 'lgbt', 'devoted', 'tight-knit', 'pride', 'volunteerism', 'congregation', 'philanthropy', 'commendable', 'underserved_population', 'family_orient', 'community_outreach', 'collegial_atmosphere', 'wonderful', 'spiritual', 'civic', 'inclusion', 'catholic', 'seneca', 'philanthropic', 'committment']
+
+
+The dimension is: safety 50 expanded words
+===========================================================================
+['wellness', 'heath', 'health_wellness', 'welfare', 'flexible', 'medical', 'well-being', 'healthcare', 'excellent', 'work-life_balance', 'flex', 'preventive', 'healthy_lifestyle', 'work/life_balance', 'wellbeing', 'life_balance', 'benefits', 'fitness', 'family_orient', 'community_involvement', 'wellness_program', 'affordable', 'preventative', 'family-friendly', 'patient', 'healthier', 'childcare', 'safe', 'flexible_arrangement', 'sustainability', 'health_insurance', 'family', 'balanced', 'comfort', 'conscious', 'healthy_eating', 'tuition_reimbursement', 'reasonable', 'fringe', 'flexibilty', 'generous_pto', 'mental_health', 'educational', 'saftey', 'package', 'facility', 'work/home_balance', 'generous', 'environmental', 'flextime']
+
+
+The dimension is: innovation 50 expanded words
+===========================================================================
+['continuous_improvement', 'initiative', 'ingenuity', 'innovate', 'success', 'risk-taking', 'creative_thinking', 'entrepreneurial_spirit', 'agility', 'execution', 'risk_taking', 'continual_improvement', 'output', 'collaboration', 'effectiveness', 'proactivity', 'strategic_thinking', 'forward_thinking', 'operational_excellence', 'embrace', 'simplicity', 'entrepreneurial', 'experimentation', 'entrepreneurship', 'box_thinking', 'empowerment', 'empower', 'sense_urgency', 'focus', 'capability', 'development', 'value', 'tangible', 'outcome', 'enthusiasm', 'greatness', 'strive', 'push_envelope', 'teamwork', 'independent_thinking', 'individual', 'out-of-the-box_thinking', 'strive_excellence', 'productivity', 'revenue_generation', 'operational_efficiency', 'strong', 'continue', 'champion', 'accountability']
+
+
+The dimension is: communication 50 expanded words
+===========================================================================
+['interdepartmental_communication', 'communcation', 'communications', 'coordination', 'communciation', 'inter-departmental_communication', 'cohesion', 'communicate', 'cohesiveness', 'communication-', 'transparency', 'consistency', 'comunication', 'communicate_effectively', 'information_sharing', 'cooperation', 'accountability', '-communication', 'communicating', 'communicaton', 'miscommunication', 'leadership', 'inter-department_communication', 'alignment', 'dissemination_information', 'continuity', 'clarity', 'collaboration', 'direction', 'communitcation', 'two-way_communication', 'follow-through', 'miscommunications', 'planning', 'standardization', 'oversight', 'relay_information', 'dialogue', 'uniformity', 'visibility', 'organizational_structure', 'management/leadership', 'comminication', 'commuication', 'departmental', 'mixed_message', 'cause_confusion', 'conflict', 'follow-up', 'planning_execution']
+
+
